@@ -1,3 +1,3 @@
-TOKEN = '5466797908:AAG3i-uWsruPw_lrBNiijzD-WEKuMw2B24k'
+TOKEN = 'токен'
 
-ADMIN_ID = [2078142264, 1360847264]
+ADMIN_ID = [айди админа, ещё айди]
